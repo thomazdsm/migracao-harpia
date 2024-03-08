@@ -8,7 +8,7 @@ Esta API simplifica o processo de migração de dados de uma tabela para outra u
 ## Configuração
 1. Faça o download do projeto.
 2. Crie a tabela conforme query localizada em `src/Database/Query/create-table-dados_catraca.sql`.
-3. Execute o `composer update`.
+3. Execute `composer update && cp .env.example .env`.
 4. No arquivo `.env` localizado na raiz do projeto configure as seguintes variáveis:
 * DB_HOST=ip_host
 * DB_NAME=db_name
