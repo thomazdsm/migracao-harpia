@@ -2,3 +2,4 @@
 tutores/tutores.csv
 tutores/log.txt
 vendor/
+.env

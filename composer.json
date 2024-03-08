@@ -6,7 +6,12 @@
         {
             "name": "Pedro Fellipe",
             "email": "pedrofellipemelo123@gmail.com"
+        },
+        {
+            "name": "Thomaz Machado",
+            "email": "thomaz.machado@uemanet.uema.br"
         }
+
     ],
     "autoload": {
         "psr-4": {
