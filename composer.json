@@ -1,0 +1,20 @@
+{
+    "description": "Migration",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pedro Fellipe",
+            "email": "pedrofellipemelo123@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Migracao\\": "src/"
+        }
+    },
+    "require": {
+        "william-costa/dot-env": "^0.1.0",
+        "ext-pdo": "*"
+    }
+}
